@@ -1,1 +1,24 @@
 /*  your css code here. If applicable */
+.book-library{
+	background:#f8f8f8
+	
+}
+img{
+	display:flex;
+	margin:20px auto;
+	padding:10px
+}
+.book{
+	background:rgb(255,255,255);
+	box-sizing:border-box;
+	box-shadow:1px 1px 1px 1px gray;
+	
+}
+.book {
+	font-color:#777777;
+}
+.price{
+	display:block;
+	background:#2ecc71;
+	text-align:center;
+}
