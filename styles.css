@@ -1,7 +1,6 @@
 /*  your css code here. If applicable */
 .book-library{
 	background:#f8f8f8
-	
 }
 img{
 	display:flex;
@@ -17,7 +16,7 @@ img{
 .book {
 	font-color:#777777;
 }
-.price{
+.price-block{
 	display:block;
 	background:#2ecc71;
 	text-align:center;
